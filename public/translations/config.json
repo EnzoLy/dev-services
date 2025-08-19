@@ -1,0 +1,18 @@
+{
+  "languages": {
+    "es": {
+      "name": "Español",
+      "nativeName": "Español",
+      "flag": "🇪🇸",
+      "direction": "ltr"
+    },
+    "en": {
+      "name": "English",
+      "nativeName": "English",
+      "flag": "🇺🇸",
+      "direction": "ltr"
+    }
+  },
+  "defaultLanguage": "es",
+  "fallbackLanguage": "en"
+}
